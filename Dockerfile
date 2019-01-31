@@ -1,4 +1,4 @@
-FROM runmymind/docker-android-sdk:ubuntu-standalone
+FROM runmymind/docker-android-sdk:latest
 
 # Good habit to run before installing
 RUN apt-get update
